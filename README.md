@@ -14,7 +14,7 @@ Firebase, JGProgressHud , SDWebImages
 
 <img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/loginScreen.imageset/loginScreen.png" width="300">
 <img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/register.imageset/register.png" width="300">
-<img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/profileTask.imageset/profileTask.png" width="300">
+<img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/mainTask.imageset/mainTask.png" width="300">
 <img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/pastTask.imageset/pastTask.png" width="300">
 <img src="https://github.com/AykutIpek/TodoList-MVVM-UIKit/blob/main/TodoList/Files/Assets.xcassets/profileTask.imageset/profileTask.png" width="300">
 
